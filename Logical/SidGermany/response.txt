@@ -1,0 +1,9 @@
+The given SIP message is a response with:
+      status code: <status-code>
+      reason: <reason>
+      headers:
+          <header-1>: <header-1-content>
+          <header-1>: <header-1-content>
+          <...>: <...>
+      and body:
+          <raw-body>

@@ -1,0 +1,9 @@
+The given SIP message is a request with:
+        request-uri: <request-uri>
+        method: <method>
+        headers:
+           <header-1>: <header-1-content>
+           <header-1>: <header-1-content>
+           <...>: <...>
+        and body:
+           <raw-body>
